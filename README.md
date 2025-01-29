@@ -8,7 +8,7 @@ Deploy and run **DeepSeek-R1**, a 685B parameter model with dynamic quantization
 
 **DeepSeek-R1** is a large language model featuring:
 
-- **685 parameters**  
+- **685 billion parameters**  
 - Multiple **dynamic quantization** options (from 1.58bit up to 2.51bit)  - thanks to [unsloth]([https://huggingface.co/unsloth](https://github.com/unslothai/unsloth))
 - Support for both **standard** and **distilled** variants  
 - Flexible GPU memory usage for cost-effective deployments  
